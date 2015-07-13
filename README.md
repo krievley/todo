@@ -6,7 +6,7 @@ One page wordpress site using custom theme.
 
 ## Outside Resources
 
-### Wordpress Template
+### Webflow Template
 #### https://webflow.com/templates/Donerun
 ### Template Author
 #### https://webflow.com/templates/designer/6ixstudio
